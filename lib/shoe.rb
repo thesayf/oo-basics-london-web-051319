@@ -3,8 +3,8 @@ class Shoe
   
   attr_reader :title
  
-  def initialize(title)
-    @title = title
+  def initialize(brand)
+    @brand = title
   end
  
   def title
