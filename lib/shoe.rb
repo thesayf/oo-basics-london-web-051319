@@ -7,6 +7,5 @@ class Shoe
  
  
 
-  end
- 
+
 end
