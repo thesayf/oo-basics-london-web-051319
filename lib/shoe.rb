@@ -9,10 +9,6 @@ class Shoe
     puts "Your shoe is as good as new!"
     self.condition = "new"
   end
- 
-def condition
-  
-end 
 
 
 end
